@@ -15,5 +15,3 @@ So, **step up**. Embrace the challenge. Don’t shy away from the numbers, the c
 Remember this - **the future belongs to those who can create it**, and math and programming are your paintbrushes, your chisels. So go ahead, paint your masterpiece, sculpt your future, because the world isn't shaped by those who watch and wait, but by those who do and dare.
 
 **Embrace math. Master programming. And become the architect of your own destiny.**
-
-![](https://i.imgur.com/W9BElzB.png)
